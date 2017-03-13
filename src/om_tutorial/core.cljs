@@ -28,7 +28,7 @@
                                                    :lane/thickness                                        :road/lane-thickness
                                                    :lane/lane-from-port-where-a-is-fore-b-is-aft          1
                                                    :lane/auto-intake                                      :position/a
-                                                   :lane/auto-schedule                                    [{:auto/body :body-size/coupe :auto/speed-variance 0 :init-time-spread 2}
+              cd                                     :lane/auto-schedule                                    [{:auto/body :body-size/coupe :auto/speed-variance 0 :init-time-spread 2}
                                                                                                            ]
                                                    }
                                                   {
